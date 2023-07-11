@@ -54,19 +54,10 @@ Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı al
 
 -Sprint Review: Alınan kararlar: Kullanıcı temel sayfaların arayüzleri kodlanmış ve ana bir hat oluşturulmuştur
 -Ürün Durumu: Ekran görüntüleri:
-
-
-
-
-
-
-
-
-
+![28ba3876-cbbc-4f91-818b-d8bbf90e0bbc](https://github.com/Frojuda/F-129/assets/136237541/50684d19-2a2b-45bd-b1dd-37338c4734d2)
 -Sprint Retrospective:
 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
 
 ---
 
@@ -76,28 +67,11 @@ Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vur
 
 -Ürün Durumu: Ekran görüntüleri:
 
+![351c1932-c546-4aa9-8536-21863a360005](https://github.com/Frojuda/F-129/assets/136237541/58f14043-1d0a-4c22-8ab9-2a75625a6521)
 
+![55e70099-c8cd-4878-b902-447e7bb4e159](https://github.com/Frojuda/F-129/assets/136237541/25e03fed-a49e-4252-b70f-5e94123deca3)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![2030858e-845f-48fe-b3f3-821332360b09](https://github.com/Frojuda/F-129/assets/136237541/bec438e5-35b0-4b5d-9ac0-4a69e43b432e)
 
 
 Sprint Review: Alınan kararlar: Kullanıcı temel sayfaların arayüzleri kodlanmış ve bitmiştir 
