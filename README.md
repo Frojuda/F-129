@@ -10,7 +10,7 @@ Takım Flutter 129
 
 
 ## Ürün İsmi
--Hesap makinei
+-Hesap makinesi
 
 
 ## Ürün Açıklaması
@@ -55,6 +55,7 @@ Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı al
 -Sprint Review: Alınan kararlar: Kullanıcı temel sayfaların arayüzleri kodlanmış ve ana bir hat oluşturulmuştur
 -Ürün Durumu: Ekran görüntüleri:
 ![28ba3876-cbbc-4f91-818b-d8bbf90e0bbc](https://github.com/Frojuda/F-129/assets/136237541/50684d19-2a2b-45bd-b1dd-37338c4734d2)
+
 -Sprint Retrospective:
 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
